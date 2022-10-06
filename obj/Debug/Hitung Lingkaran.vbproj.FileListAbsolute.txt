@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\obj\Debug\Hitung Lingkaran.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\obj\Debug\Hitung_Lingkaran.Form1.resources
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\obj\Debug\Hitung_Lingkaran.Resources.resources
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\obj\Debug\Hitung Lingkaran.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\obj\Debug\Hitung Lingkaran.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\bin\Debug\Hitung Lingkaran.exe.config
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\bin\Debug\Hitung Lingkaran.exe
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\bin\Debug\Hitung Lingkaran.pdb
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\bin\Debug\Hitung Lingkaran.xml
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\obj\Debug\Hitung Lingkaran.exe
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\obj\Debug\Hitung Lingkaran.xml
+G:\52020007\Pemg Visual\Modul 2\HitungLingkaran\Hitung Lingkaran\obj\Debug\Hitung Lingkaran.pdb
